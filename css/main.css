@@ -14,7 +14,7 @@ body{
 
 #rNavi h1{
     margin-right: 40px;
-
+    color: #000;
 }
 
 #rNavi li:not(:first-child) {
@@ -33,16 +33,16 @@ body{
 }
 
 #rNavi > .nav li a:link{
-    color:#000;
+    color:#FFF;
     
 }
 #rNavi > .nav li a:hover{
-    background-color: #FFF;
+    background-color: #a22041;
     //background-color: rgbrgb(250,252,238);
 
 }
 #rNavi > .nav li a:visited{
-    color:#000;
+    color:#fff;
 }
 
 #rNavi h1 a:link{
