@@ -1,1 +1,1 @@
-HackathonEvent Info http://hackathon.style-info.org/ 
+Cosplay Style Info: cosplayer.style-info.org
